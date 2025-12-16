@@ -1,16 +1,1 @@
-mern-production-ready/
-├── server/
-│   ├── server.js
-│   ├── routes/
-│   │   ├── todos.js
-│   │   └── test.js
-│   ├── models/
-│   │   └── Todo.js
-│   └── .env
-└── client/
-    ├── public/
-    │   └── index.html
-    ├── src/
-    │   ├── App.js
-    │   └── index.js
-    └── .env
+
